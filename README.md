@@ -14,4 +14,4 @@ Parameters that can be adjusted:
 * MacOS Mojave
 * Python 3.6.4
 
-_Task and data taken from the couse inf3490 at the University of Oslo_
+_Inspired to redo this task given in the couse inf3490 at the University of Oslo_
