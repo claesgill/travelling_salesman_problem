@@ -220,12 +220,13 @@ def get_prosentage(pop_size, percent):
     return int(pop_size * percent / 100)
 
 if __name__ == "__main__":
-    # Parameters
-    number_of_swaps = 1000
     number_cities = 10
     data   = load_data()
     cities = format_data(data)
+
     exhaustive_search()
+    
+    number_of_swaps = 1000
     hill_climb(number_of_swaps)
 
     # Parameters
