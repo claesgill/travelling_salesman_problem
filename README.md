@@ -13,3 +13,5 @@ Parameters that can be adjusted:
 ### System:
 * MacOS Mojave
 * Python 3.6.4
+
+_Task and data taken from the couse inf3490 at the University of Oslo_
