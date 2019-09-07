@@ -13,8 +13,11 @@ Parameters that can be adjusted inside the `main.py` file:
 ### Usage:  
 Simply run `python3 main.py` in the terminal.  
 
-### System:
+### System and packages:
 * MacOS Mojave
 * Python 3.6.4
+    * Numpy
+    * Matplotlib
+    * Itertools
 
 _Inspired to redo this task given in the couse inf3490 at the University of Oslo_
